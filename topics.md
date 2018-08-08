@@ -21,7 +21,19 @@ This is meant to be a guide -- don't let it overwhelm you. Give us what you've g
 
 ## Proposed Topic
 
-Insert your topic here!
+ISession Title: Augmented Reality Sandbox
+* Preferred Timeframe: 7:30-ish for 10 minutes
+* Event Type: Lightning Talk
+* Summary: Description of the AR Sandbox we built at Nova Labs Maker Space in Reston, VA
+* Presenter Name(s): Sharon Dempsey
+* Presenter E-mail(s): catbirdar@gmail.com
+* Presenter GitHub Account:catbirdar
+* Presenter Blog:catbirdar.wordpress.com
+* Presenter image to include on Meetup.com:
+* Audience Skill Level: All Skill Levels
+* Requirements: Digital Projector for laptop and HDMI cable
+* Code of Conduct: I have read, understand, and agree to follow the Tech Talk DC Code of Conduct. Yes.
+
 
 ## Accepted Topics
 
